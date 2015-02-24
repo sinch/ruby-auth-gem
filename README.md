@@ -1,4 +1,4 @@
-#Ruby Sinch Auth Gem for the Javascript SDK
+#Sinch Auth Ruby Gem for the Javascript SDK
 
 You can use the gem `sinch_auth` to generate a user ticket that authenticates users through the Sinch Javascript SDK. First, install the gem:
 
